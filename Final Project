@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": "# Final Project ",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 5,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "# Final Project Introduction \n",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 6,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "# # The Data Science Languages Are \n#     1.PYTHON\n#     2.R\n#     3.Java\n#     4.Scala\n#     5.Julia\n#     6.Sql",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#  The Data Sciences Libraries Are:\n#     1.Numpy\n#     2.Pandas\n#     3.MatPlotLib\n#     4.Seaborn\n#     5.TensorFlow\n#     6.Keras\n#     7.Scikit-learn \n    ",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 11,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "# Arthmetic Expression Examples #\n2 + 2 \n",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 7,
+      "outputs": [
+        {
+          "execution_count": 7,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "4"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": "# Multiply and Add Numbers #\n(2 * 2) + 4 ",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "execution_count": 4,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "8"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": "# Convert Minutes To Hours\ntotal_minutes = 130\n\n# Get hours with floor division\nhours = total_minutes // 60\n\n# Get additional minutes with modulus\nminutes = total_minutes % 60\n# Create time as a string\ntime = \"{}:{}\".format(hours, minutes)\n\nprint(time)\n",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 15,
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": "2:10\n",
+          "output_type": "stream"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": "# Objectives\n    # 1.GTL\n",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "# Authors Name\n # 1. Paul Wall",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
